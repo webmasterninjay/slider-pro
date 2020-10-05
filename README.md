@@ -3,7 +3,7 @@
 >A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.
 
 Main features: 
-
+this features use for education purpose
 * modular architecture
 * responsive
 * touch-swipe
